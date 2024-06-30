@@ -45,7 +45,7 @@ all_months_data.to_csv("all_data.csv", index=False)
 all_data = pd.read_csv("all_data.csv")
 all_data.head()
 ```
-![Snapshot of the merged database](images\data_head.png)
+<img src="images/data_head.png" alt="Merged Database">
 
 #### There are six variables in the dataframe
 - __Order ID__: The unique Id of each sale's record
