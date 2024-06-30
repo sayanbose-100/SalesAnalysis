@@ -1,1 +1,2 @@
-## The Analysis Report is present inside the [a relative link](AnalysisReport.md)
+## The Analysis of the dataset is present [Here](AnalysisReport.md)
+## The code for this analysis is present [Here](Sales_Analysis.ipynb)
