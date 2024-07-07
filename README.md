@@ -45,12 +45,12 @@ Together, __AA Batteries (4-pack)__ and __AAA Batteries (4-pack)__ are the top-s
 ### CONCLUSION
 To maximize the bottom line, several key strategies emerge from the sales analysis:
 
-*___Capitalize on December Sales___: Focus on the festive season, especially December, which generates around $4 million in sales.
+* ___Capitalize on December Sales___: Focus on the festive season, especially December, which generates around $4 million in sales.
 
-*___Target Top Cities___: Prioritize marketing efforts in San Francisco, Los Angeles, and New York City, as they account for 53% of total sales.
+* ___Target Top Cities___: Prioritize marketing efforts in San Francisco, Los Angeles, and New York City, as they account for 53% of total sales.
 
-*___Optimize Ad Timing___: Roll out advertisements at 10-11 AM and 5-6 PM to leverage the 14% increase in orders around the 12th and 19th hours.
+* ___Optimize Ad Timing___: Roll out advertisements at 10-11 AM and 5-6 PM to leverage the 14% increase in orders around the 12th and 19th hours.
 
-*___Promote Best-Sellers___: Highlight AA and AAA Batteries (4-pack), as they contribute 15% to total sales.
+* ___Promote Best-Sellers___: Highlight AA and AAA Batteries (4-pack), as they contribute 15% to total sales.
 
 Implementing these strategies will enhance sales performance and drive revenue growth.
